@@ -30,6 +30,6 @@
   "dependencies": {
     "concat-stream": "^1.4.7",
     "modularize": "^0.1.7",
-    "riot": "^2.3"
+    "riot": "git@github.com:riot/riot.git#3328cf2437cee8d6250fa69a53fdb40721ebabf7"
   }
 }
